@@ -10,3 +10,5 @@ Datos
 Los datos del proyecto vienen de La competición Kaggle Santader Customer Transaction Prediction
 
 Link del vídeo entrega 2: https://youtu.be/-ULkgvWmrZc
+
+Link vídeo entrega final: https://youtu.be/gBud3TrjzOY
